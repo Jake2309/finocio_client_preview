@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "429244680263",
+    "project_id": "finocio-auth",
+    "storage_bucket": "finocio-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429244680263:android:c659eaf3431fe9956c8962",
+        "android_client_info": {
+          "package_name": "com.example.stockolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429244680263-q5d5kfnto73prl7hnr9se9sb0b0qus27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANHGoo8gExdEh8XkLcrBMIzuAOAGI25qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429244680263-q5d5kfnto73prl7hnr9se9sb0b0qus27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429244680263-d77576ka0qd4nre865lfm84tb4jb8qu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stockolio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429244680263:android:a89550fdef1106a56c8962",
+        "android_client_info": {
+          "package_name": "com.finocio.stockolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429244680263-q5d5kfnto73prl7hnr9se9sb0b0qus27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANHGoo8gExdEh8XkLcrBMIzuAOAGI25qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429244680263-q5d5kfnto73prl7hnr9se9sb0b0qus27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429244680263-d77576ka0qd4nre865lfm84tb4jb8qu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stockolio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
